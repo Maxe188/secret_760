@@ -1,0 +1,7 @@
+Hier ein paar weitergehende Links:
+
+https://github.com/codecrafters-io/build-your-own-x
+
+https://github.com/awesome-selfhosted/awesome-selfhosted
+
+https://github.com/brootware/awesome-cyber-security-university
